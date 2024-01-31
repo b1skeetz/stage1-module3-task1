@@ -3,7 +3,6 @@ package com.epam.mjc.generics;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
-import java.util.function.Function;
 
 public class Generics {
 
